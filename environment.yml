@@ -1,0 +1,21 @@
+name: tax_update_app
+channels:
+  - conda
+  - conda-forge
+dependencies:
+  - flask
+  - pytorch-cpu
+  - numpy 
+  - pandas 
+  - pyodbc
+  - scikit-learn 
+  - spacy
+  - pip
+  - pip:
+    - joblib
+    - nltk
+    - plac==0.9.6
+    - pytorch-pretrained-bert
+    - requests
+    - tqdm
+    - gunicorn
