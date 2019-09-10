@@ -1,2 +1,2 @@
 # ml-templates
-An even more minimalist project setup template for ML apps
+Minimalist project templates and scripts for ML apps
